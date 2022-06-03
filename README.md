@@ -84,9 +84,9 @@ Explicacion y resolucion de ejercicios
 
 Conclusiones
 
-• Podemos hacer uso de las formula de Ohm para poder relacionarlas con la Potencia, estas leyes son conocidad como la Ley de Watt y nos ayudan a encontrar informacion importante acerca de nuestro circuito.
+• Es importante tener los conceptos de leyes de kirchhoff muy claros ya que estos nos ayudaran con nuestro estudio y son la base de los circuitos, a partir de estas leyes podemos hacer una gran cantidad de calculos que nos ayudaran a optimizar el circuito
 
-• Tambien hemos aprendido a ver la eficiencia de la fuente de una potencia, determinar cuanta energia puede siministrar una pila antes de convertir toda su energia quimica en energia electrica, como hay cierta cantidad de energia que se pierde en forma de calor y como puede bajar la eficiencia .
+•En este capitulo aprendimos las grandes diferencias que hay entre los circuitos en serie y los circuitos en paralelo, pudimos ver caracteristicas que hacen que cada tipo de circuito pueda tener una mayor eficiencia en diferentes circunstancias, y como podemos usar esta regla de (la corriente en los circuitos en serie se mantiene y en los circuitos en paralelo se divide).
 
 Bibliografía
 
@@ -94,6 +94,7 @@ Bibliografía
 
 RUBRICA
 
+![ ](https://github.com/AaronDavidFuentesSalas/DEBERES/blob/main/tabla.png)
  
 
 
