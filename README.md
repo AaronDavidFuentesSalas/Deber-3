@@ -68,6 +68,7 @@ Conversion de energia:
 La energía puede transformarse de una forma a otra, como por ejemplo de electricidad a calor o de calor a electricidad.
 
 Explicacion y resolucion de ejercicios
+
 ![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/1.jpg)
 ![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/2.jpg)
 ![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/3.jpg)
