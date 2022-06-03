@@ -64,4 +64,36 @@ Conversion de energia:
 La energía puede transformarse de una forma a otra, como por ejemplo de electricidad a calor o de calor a electricidad.
 
 Explicacion y resolucion de ejercicios
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/1.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/2.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/3.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/4.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/5.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/6.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/7.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/8.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/9.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/10.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/11.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/12.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/13.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/14.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/15.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/16.jpg)
+![ ](https://github.com/AaronDavidFuentesSalas/Deber-3/blob/main/17.jpg)
+
+Conclusiones
+
+• Podemos hacer uso de las formula de Ohm para poder relacionarlas con la Potencia, estas leyes son conocidad como la Ley de Watt y nos ayudan a encontrar informacion importante acerca de nuestro circuito.
+
+• Tambien hemos aprendido a ver la eficiencia de la fuente de una potencia, determinar cuanta energia puede siministrar una pila antes de convertir toda su energia quimica en energia electrica, como hay cierta cantidad de energia que se pierde en forma de calor y como puede bajar la eficiencia .
+
+Bibliografía
+
+• Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comments on commit 73edc1a
+
+RUBRICA
+
+ 
+
 
