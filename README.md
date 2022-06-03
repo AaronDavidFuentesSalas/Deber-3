@@ -19,6 +19,10 @@ Objetivos específicos
 
 Marco Teórico
 
+Ley de corriente de Kirchhoff
+
+Está basada en la ley de la conservación de la carga, la corriente total que entra a un nodo es igual a la corriente que sale del nodo.
+
 Ley de Ohm: La Ley de Ohm relaciona la corriente, voltaje y resistencia enuna sola formula, donde podemos ver la relacion lineal de corriente y voltaje
 .Corriente
 
